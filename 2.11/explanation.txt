@@ -1,0 +1,2 @@
+I containerized python flask application. Frontend svelte is not yet containerized.
+Backend fully functions with hot reloading. This setup uses Dockerfile and docker-compose.yml
